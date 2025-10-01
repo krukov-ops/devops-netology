@@ -86,7 +86,7 @@
 
 **Решение**
 
-![Task_5](1/5.png)
+###https://github.com/krukov-ops/devops-netology
 
 ----
 
